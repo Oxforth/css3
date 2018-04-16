@@ -1,0 +1,15 @@
+body {
+    width: 610px;
+    height: 320px;
+}
+p{
+    color: white;
+}
+#p1 {
+    columns: 4;
+  text-align: justify;
+}
+#p2{
+    columns: 3;
+  text-align: justify;
+}

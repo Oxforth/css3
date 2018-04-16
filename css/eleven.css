@@ -1,0 +1,19 @@
+body {
+    width: 610px;
+    height: 320px;
+}
+
+p {
+    width: 100px;
+    border: 1px solid white;
+    text-align: justify;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: white;
+}
+
+p:hover {
+    width: 300px;
+    overflow: visible;
+}

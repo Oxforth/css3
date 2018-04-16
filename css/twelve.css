@@ -1,0 +1,13 @@
+body {
+    width: 410px;
+    height: 320px;
+}
+
+p {
+    border: 2px solid white;
+    padding: 20px; 
+    width: 300px;
+    resize: both;
+    overflow: auto;
+    color: white;
+}

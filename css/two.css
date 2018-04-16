@@ -1,0 +1,17 @@
+body {
+    width: 630px;
+    height: 460px;
+}
+
+div {
+    width: 255px;
+    height: 150px;
+    background: white;
+    transition-property: width, height;
+    margin: 4px;
+}
+
+div:hover {
+    width: 600px;
+    height: 430px;
+}

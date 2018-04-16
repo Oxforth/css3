@@ -1,0 +1,12 @@
+body {
+    width: 610px;
+    height: 320px;
+}
+
+#fondo {
+    width: 450px;
+    height: 450px;
+    background: url(../imagenes/legion.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}

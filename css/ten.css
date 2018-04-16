@@ -1,0 +1,26 @@
+body {
+    width: 630px;
+    height: 460px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background: black;
+    margin: 1px;
+    border: 5px solid white;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+.flex {
+    border: none;
+    width: 630px;
+    height: 460px;
+    flex-wrap: wrap;
+}
+.flex:hover{
+    display: flex;
+}
+

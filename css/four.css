@@ -1,0 +1,30 @@
+body {
+    width: 630px;
+    height: 460px;
+}
+div {
+    width: 255px;
+    height: 150px;
+    background: white;
+    margin: 4px;
+}
+#d1 {
+    transition-timing-function: linear;
+    transition-delay: 0.5s;
+}
+#d1:hover {
+    width: 650px;
+}
+#d2 {
+    width: 255px;
+    height: 150px;
+    background: white;
+    transition-property: width, height;
+    margin: 4px;
+    transition-delay: 1s;
+}
+
+#d2:hover {
+    width: 600px;
+    height: 230px;
+}

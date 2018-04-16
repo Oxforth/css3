@@ -1,0 +1,26 @@
+body {
+    width: 610px;
+    height: 320px;
+    background: black;
+    color: white;
+}
+
+p {
+    color: red;
+}
+
+p.ex1 {
+    display: none;
+}
+
+p.ex2 {
+    display: inline;
+}
+
+p.ex3 {
+    display: block;
+}
+
+p.ex4 {
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+body {
+    width: 410px;
+    height: 320px;
+}
+
+img {
+    width: 450px;
+    height: 450px;
+}
+
+img:hover{
+    
+    image-rendering: pixelated;
+}

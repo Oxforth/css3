@@ -1,0 +1,17 @@
+body {
+    width: 630px;
+    height: 460px;
+}
+
+p {
+    font: 1.5em 'DejaVu Serif', Constantia;
+    color: white;
+}
+
+.speed {
+    text-rendering: optimizeSpeed;
+}
+
+.legibility {
+    text-rendering: optimizeLegibility;
+}

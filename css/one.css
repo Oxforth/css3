@@ -1,0 +1,35 @@
+body {
+    width: 630px;
+    height: 460px;
+}
+
+div {
+    width: 255px;
+    height: 150px;
+    background: white;
+    margin: 4px;
+}
+
+#d1 {
+    transition-timing-function: linear;
+}
+
+#d2 {
+    border-radius: 50px;
+    transition-timing-function: ease;
+}
+
+#d3 {
+    border-radius: 100px;
+    transition-timing-function: ease-out;
+}
+
+div:hover {
+    width: 650px;
+}
+#d2:hover{
+    width: 500px;
+}
+#d3:hover{
+    width: 300px;
+}
